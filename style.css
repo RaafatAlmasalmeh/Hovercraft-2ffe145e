@@ -50,7 +50,7 @@ td{
 }
 #paars{
     background-color: #db77db;
-   <cursor: pointer;
+   cursor: pointer;
 }
 
 #blue {
@@ -65,18 +65,22 @@ td{
 
 #geel{
     background-color: #ffffaf;
+    cursor: pointer;
 }
 
 #blue:hover {
     background-color: yellow;
+    cursor: pointer;
 }
 
 #H:hover {
     background-color: yellow;
+    cursor: pointer;
 }
 
 #paars:hover {
     background-color: yellow;
+    cursor: pointer;
 }
 
 
